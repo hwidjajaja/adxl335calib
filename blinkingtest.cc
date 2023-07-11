@@ -1,5 +1,5 @@
 int ledPin = 8;
-int delayTime - 500;
+int delayTime = 500;
 
 void setup()
 {
